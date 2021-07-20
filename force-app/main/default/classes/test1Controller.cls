@@ -1,5 +1,5 @@
 global with sharing class test1Controller {
-    //this one for remote Action
+  
     public Decimal contactCounter{get;set;}
     public Decimal accountCounter{get;set;}
     public static Account account{get;set;}
